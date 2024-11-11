@@ -1,0 +1,24 @@
+-d
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\build\\classes"
+-classpath
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\build\\classes"
+-sourcepath
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\build\\empty"
+-target
+21
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\build\\empty"
+-s
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\build\\generated-sources\\ap-source-output"
+-source
+21
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\src\\algoritmo\\FCFS.java"
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\src\\algoritmo\\Prioridad.java"
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\src\\algoritmo\\RoundRobin.java"
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\src\\algoritmo\\SJF.java"
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\src\\interfaces\\AlgoritmoPlanificacion.java"
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\src\\interfaz\\VentanaPrincipalPrincipal.java"
+"C:\\Users\\jeank\\Documents\\NetBeansProjects\\Simulador de Procesos\\src\\logic\\Proceso.java"
